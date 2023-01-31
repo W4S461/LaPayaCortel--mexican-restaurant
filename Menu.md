@@ -1,10 +1,10 @@
 # Menu
 # Danie główne
-1.**Tacos al Pastor** - *klasyczne tacos z karkówki, cebulą, kolendrą i ananasem*  
-2.**Enchiladas** - *ciastka nadziewane serem i salsą, podane z ryżem i fasolą*  
-3.**Chile Relleno** - *smażone papryki nadziewane serem i mięsem*  
-4.**Pollo a la Parrilla** - *grilowany kurczak, podany z ryżem i fasolą*  
-5.**Carne Asada** - *grillowana wołowina, podana z tortillami i guacamole*  
+1.**Tacos al Pastor** - *klasyczne tacos z karkówki, cebulą, kolendrą i ananasem* - 35 zł  
+2.**Enchiladas** - *ciastka nadziewane serem i salsą, podane z ryżem i fasolą* - 40 zł  
+3.**Chile Relleno** - *smażone papryki nadziewane serem i mięsem* - 30 zł  
+4.**Pollo a la Parrilla** - *grilowany kurczak, podany z ryżem i fasolą* - 35 zł  
+5.**Carne Asada** - *grillowana wołowina, podana z tortillami i guacamole* - 30 zł  
 # Zupy i sałatki
 1.**Pozole** - *tradycyjna zupa z kukurydzy i mięsa*  
 2.**Sopa de Tortilla** - *zupa z tortillami, kurczakiem i serem*  
