@@ -9,3 +9,4 @@
 - Barmani - odpowiedzialni za przygotowywanie i serwowanie drinków  
 - Kucharze - odpowiedzialni za przygotowywanie posiłków i dbanie o jakość przygotowywanych potraw.  
 - Pomoce kuchenne - pomoc kucharzy w przygotowywaniu posiłków i utrzymaniu czystości w kuchni.  
+- Recepcjonistka - odpowiedzialna za rejestrowanie rezerwacji i odpowiadanie na pytania gości.  
