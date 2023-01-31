@@ -8,3 +8,4 @@
 - Kelnerzy - odpowiedzialni za obsługę gości i dostarczanie im jedzenia oraz napojów  
 - Barmani - odpowiedzialni za przygotowywanie i serwowanie drinków  
 - Kucharze - odpowiedzialni za przygotowywanie posiłków i dbanie o jakość przygotowywanych potraw.  
+- Pomoce kuchenne - pomoc kucharzy w przygotowywaniu posiłków i utrzymaniu czystości w kuchni.  
