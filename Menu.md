@@ -16,10 +16,10 @@
 3.**Horchata** - *tradycyjny napój z kukurydzy i cynamonu* - 20 zł 
 4.**Agua Fresca** - *świeży napój owocowy* - 17 zł  
 # Desery
-1.**Flan** - *klasyczne deser z cukru i mleka*  
-2.**Churros** - *smażone ciastka z cukrem i cynamonem*  
-3.**Tres Leches** - *ciasto z mlecznym kremem*  
-4.**Sorbet de mango** - *sorbet z mango.*  
+1.**Flan** - *klasyczne deser z cukru i mleka* - 25 zł  
+2.**Churros** - *smażone ciastka z cukrem i cynamonem* - 15 zł  
+3.**Tres Leches** - *ciasto z mlecznym kremem* - 17 zł  
+4.**Sorbet de mango** - *sorbet z mango.* - 20 zł  
 # Alkohole
 1.**Tequila** - *meksykańska wódka*  
 2.**Mezcal** - *meksykańska wódka z agawy*  
