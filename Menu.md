@@ -21,7 +21,7 @@
 3.**Tres Leches** - *ciasto z mlecznym kremem* - 17 zł  
 4.**Sorbet de mango** - *sorbet z mango.* - 20 zł  
 # Alkohole
-1.**Tequila** - *meksykańska wódka*  
-2.**Mezcal** - *meksykańska wódka z agawy*  
-3.**Aguardiente** - *meksykański napój spirytusowy z cukru trzcinowego*  
-4.**Pisco** - *peruwiańska wódka z winogron.*  
+1.**Tequila** - *meksykańska wódka* - 87 zł  
+2.**Mezcal** - *meksykańska wódka z agawy* - 120 zł  
+3.**Aguardiente** - *meksykański napój spirytusowy z cukru trzcinowego* - 54 zł  
+4.**Pisco** - *peruwiańska wódka z winogron.* - 77 zł  
