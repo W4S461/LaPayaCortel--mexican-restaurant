@@ -4,3 +4,4 @@
   
   
 - Kierownik restauracji - odpowiedzialny za zarządzanie działaniem lokalu i jego personelu  
+- Sous chef - pomoc kierownika kuchni w przygotowywaniu i serwowaniu posiłków  
