@@ -12,10 +12,10 @@
 4.**Ensalada de espinacas** - *sałatka z szpinakiem, serem i pomidorami* - 15 zł    
 # Napoje alkoholowe
 1.**Margaritas** - *klasyczne margarity z różnymi smakami* - 27 zł  
-2.Tequila Sunrise - tequila, sok pomarańczowy i grenadyna  
-3.Paloma - tequila, sok z grapefruita i sodowy  
-4.Michelada - piwo, sok pomidorowy, limonka i przyprawy  
-5.Sangria - wino, brandy, soki i owoce  
+2.**Tequila Sunrise** - *tequila, sok pomarańczowy i grenadyna*  
+3.**Paloma** - *tequila, sok z grapefruita i sodowy*  
+4.**Michelada** - *piwo, sok pomidorowy, limonka i przyprawy*  
+5.**Sangria** - *wino, brandy, soki i owoce*  
 6.**Tecate** - *meksykańskie piwo* - 15 zł  
 # Desery
 1.**Flan** - *klasyczne deser z cukru i mleka* - 25 zł  
