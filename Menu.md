@@ -17,6 +17,12 @@
 4.**Michelada** - *piwo, sok pomidorowy, limonka i przyprawy* - 25 zł  
 5.**Sangria** - *wino, brandy, soki i owoce* - 25 zł  
 6.**Tecate** - *meksykańskie piwo* - 15 zł  
+Koktajle bezalkoholowe
+Horchata - tradycyjny napój z kukurydzy i cynamonu
+Agua Fresca - świeży napój owocowy
+Jamaica - napój z hibiskusa i cukru
+Tamarindo - napój z tamaryndy i cukru
+Limonada - sok z limonki i cukru.
 # Desery
 1.**Flan** - *klasyczne deser z cukru i mleka* - 25 zł  
 2.**Churros** - *smażone ciastka z cukrem i cynamonem* - 15 zł  
