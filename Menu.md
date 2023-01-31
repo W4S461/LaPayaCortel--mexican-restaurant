@@ -6,10 +6,10 @@
 4.**Pollo a la Parrilla** - *grilowany kurczak, podany z ryżem i fasolą* - 35 zł  
 5.**Carne Asada** - *grillowana wołowina, podana z tortillami i guacamole* - 30 zł  
 # Zupy i sałatki
-1.**Pozole** - *tradycyjna zupa z kukurydzy i mięsa*  
-2.**Sopa de Tortilla** - *zupa z tortillami, kurczakiem i serem*  
-3.**Ensalada de Ceviche** - *sałatka z surowej ryby i limonką*  
-4.**Ensalada de espinacas** - *sałatka z szpinakiem, serem i pomidorami*  
+1.**Pozole** - *tradycyjna zupa z kukurydzy i mięsa* - 20 zł  
+2.**Sopa de Tortilla** - *zupa z tortillami, kurczakiem i serem* - 25 zł  
+3.**Ensalada de Ceviche** - *sałatka z surowej ryby i limonką* - 30 zł  
+4.**Ensalada de espinacas** - *sałatka z szpinakiem, serem i pomidorami* - 15 zł  
 # Napoje
 1.**Margaritas** - *klasyczne margarity z różnymi smakami*  
 2.**Tecate** - *meksykańskie piwo*  
