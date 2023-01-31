@@ -8,4 +8,4 @@
 ### Strona internetowa: *www.elrodeo.com*
 ### Godziny otwarcia: *pn-pt 11:00-22:00, sb-nd 10:00-23:00*
 
-##*Serdecznie zapraszamy!*
+## *Serdecznie zapraszamy!*
