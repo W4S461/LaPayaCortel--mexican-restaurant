@@ -18,11 +18,11 @@
 5.**Sangria** - *wino, brandy, soki i owoce* - 25 zł  
 6.**Tecate** - *meksykańskie piwo* - 15 zł  
 #Koktajle bezalkoholowe
-1.**Horchata** - *tradycyjny napój z kukurydzy i cynamonu*
-2.**Agua Fresca** - *świeży napój owocowy*
-3.**Jamaica** - *napój z hibiskusa i cukru*
-4.**Tamarindo** - *napój z tamaryndy i cukru*
-5.**Limonada** - *sok z limonki i cukru.*
+1.**Horchata** - *tradycyjny napój z kukurydzy i cynamonu* - 20 zł  
+2.**Agua Fresca** - *świeży napój owocowy* - 22 zł  
+3.**Jamaica** - *napój z hibiskusa i cukru* - 24 zł  
+4.**Tamarindo** - *napój z tamaryndy i cukru* - 20 zł  
+5.**Limonada** - *sok z limonki i cukru.* - 15 zł  
 # Desery
 1.**Flan** - *klasyczne deser z cukru i mleka* - 25 zł  
 2.**Churros** - *smażone ciastka z cukrem i cynamonem* - 15 zł  
