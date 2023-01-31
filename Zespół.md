@@ -7,3 +7,4 @@
 - Sous chef - pomoc kierownika kuchni w przygotowywaniu i serwowaniu posiłków  
 - Kelnerzy - odpowiedzialni za obsługę gości i dostarczanie im jedzenia oraz napojów  
 - Barmani - odpowiedzialni za przygotowywanie i serwowanie drinków  
+- Kucharze - odpowiedzialni za przygotowywanie posiłków i dbanie o jakość przygotowywanych potraw.  
