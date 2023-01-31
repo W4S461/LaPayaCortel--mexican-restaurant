@@ -17,7 +17,7 @@
 4.**Michelada** - *piwo, sok pomidorowy, limonka i przyprawy* - 25 zł  
 5.**Sangria** - *wino, brandy, soki i owoce* - 25 zł  
 6.**Tecate** - *meksykańskie piwo* - 15 zł  
-#Koktajle bezalkoholowe
+# Koktajle bezalkoholowe  
 1.**Horchata** - *tradycyjny napój z kukurydzy i cynamonu* - 20 zł  
 2.**Agua Fresca** - *świeży napój owocowy* - 22 zł  
 3.**Jamaica** - *napój z hibiskusa i cukru* - 24 zł  
