@@ -13,7 +13,7 @@
 # Napoje
 1.**Margaritas** - *klasyczne margarity z różnymi smakami* - 27 zł  
 2.**Tecate** - *meksykańskie piwo* - 15 zł  
-3.**Horchata** - *tradycyjny napój z kukurydzy i cynamonu* - 20 zł 
+3.**Horchata** - *tradycyjny napój z kukurydzy i cynamonu* - 20 zł  
 4.**Agua Fresca** - *świeży napój owocowy* - 17 zł  
 # Desery
 1.**Flan** - *klasyczne deser z cukru i mleka* - 25 zł  
