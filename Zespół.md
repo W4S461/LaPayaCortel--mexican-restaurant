@@ -5,3 +5,4 @@
   
 - Kierownik restauracji - odpowiedzialny za zarządzanie działaniem lokalu i jego personelu  
 - Sous chef - pomoc kierownika kuchni w przygotowywaniu i serwowaniu posiłków  
+- Kelnerzy - odpowiedzialni za obsługę gości i dostarczanie im jedzenia oraz napojów  
