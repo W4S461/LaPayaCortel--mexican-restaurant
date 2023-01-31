@@ -6,6 +6,6 @@
 ### Telefon: *+52 555 123 4567*
 ### E-mail: *info@elrodeo.com*
 ### Strona internetowa: *www.elrodeo.com*
-### Godziny otwarcia: *pn-pt 11:00-22:00, sb-nd 10:00-23:00*
+### Godziny otwarcia: *pn-pt 12:00-22:00, sb-nd 11:00-23:00*
 
 ## *Serdecznie zapraszamy!*
