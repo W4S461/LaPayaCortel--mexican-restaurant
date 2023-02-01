@@ -12,6 +12,18 @@
 4.**Pollo a la Parrilla** - *grilowany kurczak, podany z ryżem i fasolą* - 35 zł  
 5.**Carne Asada** - *grillowana wołowina, podana z tortillami i guacamole* - 33 zł  
   
+# Potrawy bezglutenowe  
+
+<img src = "https://github.com/W4S461/Taqueria-El-Rodeo/blob/main/jedzenie/10.JPG" width = 500 > 
+  
+1.**Tacos de pollo sin tortilla** - *tacos z kurczakiem zamiast tortilli z mieszanką zieleni i avocado* - 15 zł  
+2.**Burrito de carne sin tortilla** - *burrito z mięsem bez tortilli, zawijane w liście kolby kukurydzy* - 20 zł  
+3.**Enchiladas de verduras sin tortilla** - *enchiladas z warzywami bez tortilli, zawijane w liście kolby kukurydzy* - 17 zł  
+4.**Guacamole con vegetales** - *guacamole z warzywami i zielenią* - 15 zł  
+5.**Pollo a la parrilla sin tortilla** - *grillowany kurczak bez tortilli, podawany z warzywami i sosem* - 22 zł  
+6.**Sopa de camarones sin gluten** - *zupa krewetkowa bez glutenu z dodatkiem warzyw i kolendry.* - 27 zł  
+7.**Pescado a la parrilla sin tortilla** - *grillowana ryba bez tortilli, podawana z warzywami i sosem.* - 25 zł  
+  
 # Zupy i sałatki  
   
 <img src = "https://github.com/W4S461/Taqueria-El-Rodeo/blob/main/jedzenie/3.jpg" width = 500 > 
