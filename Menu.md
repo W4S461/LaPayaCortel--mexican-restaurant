@@ -4,7 +4,7 @@
 2.**Enchiladas** - *ciastka nadziewane serem i salsą, podane z ryżem i fasolą* - 40 zł  
 3.**Chile Relleno** - *smażone papryki nadziewane serem i mięsem* - 30 zł  
 4.**Pollo a la Parrilla** - *grilowany kurczak, podany z ryżem i fasolą* - 35 zł  
-5.**Carne Asada** - *grillowana wołowina, podana z tortillami i guacamole* - 30 zł  
+5.**Carne Asada** - *grillowana wołowina, podana z tortillami i guacamole* - 33 zł  
 # Zupy i sałatki
 1.**Pozole** - *tradycyjna zupa z kukurydzy i mięsa* - 20 zł  
 2.**Sopa de Tortilla** - *zupa z tortillami, kurczakiem i serem* - 25 zł  
