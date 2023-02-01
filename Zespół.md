@@ -10,3 +10,8 @@
 - Kucharze - odpowiedzialni za przygotowywanie posiłków i dbanie o jakość przygotowywanych potraw.  
 - Pomoce kuchenne - pomoc kucharzy w przygotowywaniu posiłków i utrzymaniu czystości w kuchni.  
 - Recepcjonistka - odpowiedzialna za rejestrowanie rezerwacji i odpowiadanie na pytania gości.  
+  
+  
+Każdy z naszych członków zespołu jest zaangażowany w zapewnienie naszym gościom niezapomnianego doświadczenia w naszej restauracji.  
+  
+  Serdecznie zapraszamy!
