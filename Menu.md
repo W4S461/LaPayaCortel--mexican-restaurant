@@ -54,6 +54,26 @@
 4.**Tamarindo** - *napój z tamaryndy i cukru* - 20 zł  
 5.**Limonada** - *sok z limonki i cukru.* - 15 zł  
   
+<img src = "https://github.com/W4S461/Taqueria-El-Rodeo/blob/Jedzenie-bezglutenowe/drinki/bergl.jpg" width = 500 > 
+  
+# Napoje bezglutenowe  
+  
+1.**Soki owocowe** - 12 zł  
+2.**Napoje gazowane** - 15 zł  
+3.**Kawa** - 10 zł  
+4.**Herbata** - 9 zł  
+5.**Woda mineralna** - 9.90 zł  
+  
+<img src = "https://github.com/W4S461/Taqueria-El-Rodeo/blob/Jedzenie-bezglutenowe/drinki/aa.jpg" width = 500 > 
+  
+# Napoje bezglutenowe alkoholowe  
+
+1.**Wódka** - 70 zł - 12 zł(4cl)  
+2.**Tequila** - 80 zł - 15 zł(4cl)  
+3.**Gin** - 75 zł - 13 zł(4cl)  
+4.**Rum** - 85 zł - 17 zł(4cl)  
+5.**Brandy** - 90 zł - 19 zł(4cl)  
+  
 # Desery  
   
 <img src = "https://github.com/W4S461/Taqueria-El-Rodeo/blob/main/jedzenie/8.jpg" width = 500 > 
